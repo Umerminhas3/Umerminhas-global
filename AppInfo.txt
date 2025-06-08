@@ -1,0 +1,5 @@
+
+App Name: UMERMINHAS GLOBAL
+Icon: Default (to be assigned by system)
+URL: https://UMERMINHAS-Global.vercel.app
+Description: WebView-based APK app for UmerMinhas Global Website.
